@@ -1,0 +1,15 @@
+<div>
+    <h1>Quote!</h1>
+    <h4>@ViewBag.Quote</h4>
+    <h2>Author: </h2>
+    <h4>@ViewBag.Author</h4>
+    <h2>Meta: </h2>
+    <h4>@ViewBag.Meta</h4>
+    <h2>Categories: </h2>
+    @{
+        foreach(string cat in ViewBag.Categories)
+        {
+            <h4><a href='/category/@cat["id"]'>@cat["catname"]</a></h4>
+        }
+    }
+</div>

@@ -1,0 +1,10 @@
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\quotingDojo2\obj\MCD\Debug\netcoreapp2.0\quotingDojo2.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\quotingDojo2\obj\MCD\Debug\netcoreapp2.0\quotingDojo2.AssemblyInfoInputs.cache
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\quotingDojo2\obj\MCD\Debug\netcoreapp2.0\quotingDojo2.AssemblyInfo.cs
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\quotingDojo2\bin\MCD\Debug\netcoreapp2.0\quotingDojo2.deps.json
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\quotingDojo2\bin\MCD\Debug\netcoreapp2.0\quotingDojo2.runtimeconfig.json
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\quotingDojo2\bin\MCD\Debug\netcoreapp2.0\quotingDojo2.runtimeconfig.dev.json
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\quotingDojo2\bin\MCD\Debug\netcoreapp2.0\quotingDojo2.dll
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\quotingDojo2\bin\MCD\Debug\netcoreapp2.0\quotingDojo2.pdb
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\quotingDojo2\obj\MCD\Debug\netcoreapp2.0\quotingDojo2.dll
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\quotingDojo2\obj\MCD\Debug\netcoreapp2.0\quotingDojo2.pdb

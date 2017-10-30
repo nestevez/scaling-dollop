@@ -1,0 +1,18 @@
+﻿@{
+    foreach(Quote quote in ViewBag.Quotes)
+    {
+        <div>
+            <h1>Quote!</h1>
+            <h4>@quote.quote</h4>
+            <h2>Author: </h2>
+            <h4>@quote.Author["name"]</h4>
+            <h2>Meta: </h2>
+            <h4>@quote.Meta["metatext"]</h4>
+            <h2>Categories: </h2>
+            @foreach(string cat in quote.Categories)
+            {
+                <h4><a href='/category/@cat["id"]'>@cat["catname"]</a></h4>
+            }
+        </div>   
+    }
+}
